@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Nav from "./footerComponents/Nav";
+import Nav from "./headerComponents/Nav";
 
 class Header extends Component {
   state = {};
